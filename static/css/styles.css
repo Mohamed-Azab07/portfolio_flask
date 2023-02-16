@@ -914,6 +914,11 @@ img {
   outline: none;
   padding: 0.25rem 0.5rem 0.5rem 0;
 }
+
+button {
+  outline: none;
+  border: none;
+}
 /*==================== FOOTER ====================*/
 .footer {
   padding-top: 2rem;
